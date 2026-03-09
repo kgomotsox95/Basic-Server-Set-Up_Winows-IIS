@@ -65,6 +65,7 @@ Refreshed the browser page http://localhost
 
 Verified that the custom webpage was displayed correctly from the local server
 
+http://localhost/
 <img width="1529" height="551" alt="my website" src="https://github.com/user-attachments/assets/e34a53c8-0d9e-4b08-85c0-42e4bbe2fdf5" />
 
 
